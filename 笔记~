@@ -1,0 +1,2 @@
+For each car the grid cells below it are filled with the car’s speed, empty cells are filled with a high value to symbolize the potential for speed.
+The following variables control the size of the input the net gets – a larger input area provides more information about the traffic situation, but it also makes it harder to learn the relevant parts, and may require longer learning times. 
